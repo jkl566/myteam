@@ -1,0 +1,45 @@
+/*.jumbotron {*/
+  /*background-color: #9020a3;*/
+/*}*/
+/*.btn-primary {*/
+  /*color: #fff;*/
+  /*background-color: red;*/
+  /*border-color: red;*/
+/*}*/
+title{
+  color: blue;
+}
+
+h1 {
+  color: blue;
+}
+
+image.resize {
+  max-width: 50%;
+  height: auto;
+}
+img {
+   position: relative;
+   height: auto;
+   max-width: 100%;
+   object-fit: contain;
+}
+body {
+  font-family: 'Arial', cooper black, sans-serif;
+  font-weight: 300;
+  /*background-image: url(355444.jpg);*/
+  background-color: black;
+  background-repeat: repeat;
+}
+td {
+  background-color: black;
+  color: yellow;
+}
+
+.link {
+  color: #ffffff;
+  font-size: 15px;
+}
+.phrase {
+  line-height: 10px;
+}
